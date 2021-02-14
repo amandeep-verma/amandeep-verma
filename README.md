@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @amandeep
-- 👀 I’m looking for full-time position as Software Engineer in US
+- 👋 Hi, I’m @Amandeep
+- 👀 I’m looking for full-time position as Software Engineer in US.
 
-- 📫 How to reach me -> https://www.linkedin.com/in/amandeepverma/
+- 📫 Feel free to reach out -> amandeep.verma@live.in
+
+- 🖇 LinkedIn -> https://www.linkedin.com/in/amandeepverma/
 
 
